@@ -13,7 +13,7 @@
   "license": "MIT",
   "devDependencies": {
     "ava": "^3.13.0",
-    "depcheck": "^1.2.0",
+    "depcheck": "^1.4.1",
     "fakeredis": "^2.0.0",
     "nodemon": "^2.0.4",
     "nyc": "^15.1.0",
@@ -27,7 +27,7 @@
     "healthpoint": "^1.0.0",
     "http-hash-router": "^2.0.1",
     "productionize": "^4.1.0",
-    "redis": "^3.0.2",
+    "redis": "^3.1.2",
     "req-logger": "^2.0.0",
     "send-data": "^8.0.0"
   },
